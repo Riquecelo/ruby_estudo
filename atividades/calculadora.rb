@@ -1,3 +1,4 @@
+# Primeira Calculadora feita em Ruby
 result = ''
 loop do
     puts result
