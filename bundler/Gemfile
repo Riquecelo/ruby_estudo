@@ -1,0 +1,4 @@
+#rode o comando bundle para baixar as gems necessárias
+source 'https://rubygems.org'
+
+gem 'os'
